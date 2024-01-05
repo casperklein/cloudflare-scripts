@@ -1,6 +1,6 @@
 # cloudflare-scripts
 
-These are some Bash scripts to use with cloudflare's API to achieve various tasks. Before you can use them, you'll have to configure some options at the top of the files. A cloudflare API token with sufficient permissions is mandatory to use the scripts.
+These are some Bash scripts to use with cloudflare's API to achieve various DNS tasks. Before you can use them, you'll have to configure some options at the top of the files. A cloudflare API token with sufficient permissions is mandatory to use the scripts.
 
 ## cloudflare-bulk-ip-changes.sh
 
